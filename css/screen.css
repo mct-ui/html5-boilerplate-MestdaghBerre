@@ -97,4 +97,13 @@ a{
     color:royalblue;
     transition: all .1s ease-in-out;
 }
+@media (min-width: 786px){
+    html{
+        padding:48px 48px 24px;
+    }
+    h1{
+        font-size: 58px;
+        line-height: 64px;
+    }
+}
 
